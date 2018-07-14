@@ -1,6 +1,6 @@
 name: flask_trial
 dependencies:
-  - python=3.7
+  - python=3.7.0
   - flask
   - pandas
   - matplotlib
