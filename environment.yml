@@ -1,0 +1,8 @@
+name: flask_trial
+dependencies:
+  - python=3.7
+  - flask
+  - pandas
+  - matplotlib
+  - scipy
+  - jupyter
